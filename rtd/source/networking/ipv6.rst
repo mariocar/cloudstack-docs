@@ -160,7 +160,7 @@ each of the VMs. Use DUID-LL to set up dhclient.
          HWADDR=06:A0:F0:00:00:38
          NM_CONTROLLED=no
          ONBOOT=yes
-         BOOTPROTO=dhcp6
+         BOOTPROTO=none
          TYPE=Ethernet
          USERCTL=no
          PEERDNS=yes
